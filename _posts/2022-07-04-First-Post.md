@@ -1,1 +1,4 @@
-This is where my first post goes
+---
+title: My-first-post
+date: 2022-07-04
+---
